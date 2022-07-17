@@ -48,7 +48,9 @@
   <div align="center">  
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" height="50" />
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/200px-NewTux.svg.png" alt="Linux" height="50" />
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" alt="Linux" height="50" />
+    <!--
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" alt="SPO" height="50" />
+    -->
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/100865750/179394568-7c8934cd-2f9f-41a2-ace5-d4f28addffe9.png" alt="PowerShell" height="50"     />
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="W11" height="30"/>
   </td></tr>
