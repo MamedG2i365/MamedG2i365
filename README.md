@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, 👋
 
-## `Qui suis-je ?`
+## `💬 Qui suis-je ?`
 
 - [Mamed Noor Gohabur](https://mamednoor.netlify.app)
-- Un passionné d'informatique et de développement
-- En poste chez G2i365
+- ✨Un passionné d'informatique et de développement✨
+- :office: En poste chez G2i365
 - Développeur Power Apps
+- Développeur Power Automate
 - Consultant Microsoft Dynamics 365
 - Développeur Fullstack React, Node.js
 
-
-## `Compétences`
+## `🌱 Compétences`
+<div align="center"> 
+<img style="margin: 10px" src="https://www.inway.de/fileadmin/_processed_/3/c/csm_PowerPlatform_Quer_32fc5b0b88.jpg" alt="Microsoft Power Platform" height="150" />
+<img style="margin: 10px" src="https://1cb23u14ys651rrda9238ivs-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/microsoft-dynamics.jpg" alt="Microsoft Dynamics 365" height="150" />
+</div>
 
 <table>
   <tr><td valign="top" width="33%">
@@ -44,14 +48,13 @@
   <div align="center">  
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" height="50" />
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/200px-NewTux.svg.png" alt="Linux" height="50" />
-    <img style="margin: 10px" src="https://1cb23u14ys651rrda9238ivs-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/microsoft-dynamics.jpg" alt="Microsoft Dynamics 365" height="50" />
-    <img style="margin: 10px" src="https://www.inway.de/fileadmin/_processed_/3/c/csm_PowerPlatform_Quer_32fc5b0b88.jpg" alt="Microsoft Power Platform" height="50" />
-  </div>
-
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" alt="Linux" height="50" />
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/100865750/179394568-7c8934cd-2f9f-41a2-ace5-d4f28addffe9.png" alt="PowerShell" height="50"     />
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="W11" height="30"/>
   </td></tr>
 </table>  
 
-### `Vous pouvez egalement me contacter`  
+### `📫 Vous pouvez egalement me contacter`  
 <a href="https://www.linkedin.com/in/mamednoorgohabur/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mamed@g2i365.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Outlook.com_logo_and_wordmark_%282012-2019%29.svg"></a>
 
